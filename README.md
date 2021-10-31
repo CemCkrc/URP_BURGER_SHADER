@@ -8,7 +8,7 @@
 ![Hnet-image](https://user-images.githubusercontent.com/43264365/139602493-f742b42f-cccd-40fe-a4f9-fe35a2eacce6.gif)
 ## Compatibility
 Unity 2021.1.16f1
-## BURGER MODEL
+## Burger Model
 LowPoly Models by @Quaternius
 Consider supporting me on Patreon, even $1 helps me a lot!
 https://www.patreon.com/quaternius
