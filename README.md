@@ -10,7 +10,6 @@
 Unity 2021.1.16f1
 ## Burger Model
 LowPoly Models by @Quaternius
-Consider supporting me on Patreon, even $1 helps me a lot!
 https://www.patreon.com/quaternius
 ## License
 CC0 1.0 Universal (CC0 1.0) 
